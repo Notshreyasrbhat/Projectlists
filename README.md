@@ -53,6 +53,14 @@ app/
 ---
 
 ## 📸 Screenshots
+<table>
+  <tr>
+    <th>Homescreen</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/homescreen.png" width="250"></td>
+  </tr>
+</table>
 
 
 
