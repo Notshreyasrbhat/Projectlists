@@ -48,10 +48,12 @@ app/
               ├── layout/activity_main.xml
               ├── drawable/ (project icons)
               └── values/ (strings, colors, themes)
+```
 
 ---
 
 ## 📸 Screenshots
+
 
 
 ---
